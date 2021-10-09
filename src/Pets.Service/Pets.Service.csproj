@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Pets.Domain\Pets.Domain.csproj" />
+    <ProjectReference Include="..\Pets.Infra\Pets.Infra.csproj" />
+  </ItemGroup>
+
 </Project>
