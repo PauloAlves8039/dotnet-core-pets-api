@@ -14,4 +14,8 @@
     <ProjectReference Include="..\Pets.Service\Pets.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>
