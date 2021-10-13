@@ -20,6 +20,10 @@ O objetivo desse projeto é aplicar o uso de alguns concentos voltados ao DDD(Do
 
 `git clone https://github.com/PauloAlves8039/dotnet-core-pets-api.git`
 
+## :camera: Screenshot
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/dotnet-core-pets-api/blob/master/src/Pets.Api/wwwroot/images/screenshot.png" /></p>
+
 ## Author
 
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
